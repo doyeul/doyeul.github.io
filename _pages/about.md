@@ -9,3 +9,14 @@ redirect_from:
 
 I am a physics student interested in condensed matter physics,
 orbitronics, and quantum geometry.
+
+
+
+
+
+
+Bio
+
+
+Under graduate
+[View SOP during B.S.](https://doyeul.github.io/files/SOP during B.S..pdf)
