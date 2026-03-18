@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[View SOP during B.S.](/files/SOP_during_BS.pdf)
+[View SOP during B.S.](https://doyeul.github.io/files/SOP_during_BS.pdf)
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
