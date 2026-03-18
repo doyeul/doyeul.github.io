@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Doyeul Kim / South Korea / Korea University /Seoul"
+title                    : "Doyeul Kim's Page"
 title_separator          : "-"
 name                     : &name "Doyeul Kim"
 description              : &description "Physics"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,11 +24,11 @@ repository               : "doyeul/doyeul.github.io"
 author:
   # Biographic information
   avatar: "https://doyeul.github.io/images/profile.png"
-  name             : "hi~"
+  name             : "DoYeul Kim"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "South Korean"
+  location         : "South Korea"
+  employer         : "Korea University (Seoul)"
   uri              : # URL
   email            : "mark01100070@gmail.com" 
 
